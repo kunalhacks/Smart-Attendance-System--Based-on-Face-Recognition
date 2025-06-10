@@ -64,33 +64,21 @@ Smart-Attendance-System/
 
 ## Screenshots
 
-<div align="center">
-  <h3>Application Screenshots</h3>
-  
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 20px;">
-    <!-- Row 1 -->
-    <div style="text-align: center;">
-      <img src="screenshots/dashboard.png" alt="Dashboard" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p><strong>Dashboard</strong><br>Main interface showing overview</p>
-    </div>
-    
-    <div style="text-align: center;">
-      <img src="screenshots/login.png" alt="Login Page" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p><strong>Login Page</strong><br>Secure access to the system</p>
-    </div>
-    
-    <!-- Row 2 -->
-    <div style="text-align: center;">
-      <img src="screenshots/attendance.png" alt="Attendance Records" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p><strong>Attendance Records</strong><br>View, manage & export attendance data</p>
-    </div>
-    
-    <div style="text-align: center;">
-      <img src="screenshots/registration.png" alt="Registration" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p><strong>Teacher_dashboard</strong><br>Teacher's Dashboard</p>
-    </div>
-  </div>
-</div>
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+*Main interface showing overview*
+
+### Login Page
+![Login Page](screenshots/login.png)
+*Secure access to the system*
+
+### Attendance Records
+![Attendance](screenshots/attendance.png)
+*View, manage & export attendance data*
+
+### Teacher Dashboard
+![Teacher Dashboard](screenshots/registration.png)
+*Teacher's dashboard interface*
 
 ## Contributing
 
